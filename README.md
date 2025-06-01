@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm OM Revankar !</h1>
+<h1 align="center">Yoo👋, I'm OM Revankar !</h1>
 <h3 align="center">MERN Stack & Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omrevankar&label=Profile%20views&color=0e75b6&style=flat" alt="omrevankar" /> </p>
@@ -17,7 +17,7 @@
 <br/>
 <h3 align="left">My Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omrevankar&show_icons=true&locale=en&layout=compact" alt="omrevankar" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=omrevankar&show_icons=true&locale=en" alt="omrevankar" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=omrevankar&" alt="omrevankar" /></p>
+<br/><br/><br/><br/><br/><br/><br/>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=omrevankar&show_icons=true&locale=en" alt="omrevankar" /></p>
+<br/><br/><br/><br/><br/><br/><br/>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=omrevankar&" alt="omrevankar" /></p>
