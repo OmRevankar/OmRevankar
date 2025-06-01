@@ -17,7 +17,5 @@
 <br/>
 <h3 align="left">My Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omrevankar&show_icons=true&locale=en&layout=compact" alt="omrevankar" /></p>
-<br/><br/><br/><br/><br/><br/><br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=omrevankar&show_icons=true&locale=en" alt="omrevankar" /></p>
-<br/><br/><br/><br/><br/><br/><br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omrevankar&show_icons=true&locale=en" alt="omrevankar" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=omrevankar&" alt="omrevankar" /></p>
